@@ -26,8 +26,8 @@ pip install pygame
 ```
 ### 3️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-sudoku-human-vs-ai.git
-cd ai-sudoku-human-vs-ai
+https://github.com/Shoaib-Siam/Sudoku-Game.git
+cd Sudoku-Game
 ```
 ### 4️⃣ Run the Game
 ```bash
@@ -42,16 +42,19 @@ python sudoku.py
 | AI solve     | A            |
 | New game     | R            |
 | Exit         | Close window |
+
 ### 🧠 Features
 - Random Sudoku board generation
 - Real-time correctness feedback
 - AI instant solution mode
 - Clean and minimal UI
 - Fully offline
+
 ### 🛠️ Technologies Used
 - Python
 - Pygame
 - Backtracking-based Sudoku logic
+  
 ## Academic Use
 This project was developed for educational purposes as part of an AI/Python laboratory course. The AI logic is intentionally simple to emphasize understanding over optimization.
   
